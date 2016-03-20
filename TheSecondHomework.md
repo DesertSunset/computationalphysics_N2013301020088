@@ -172,7 +172,7 @@ VIM就像word文档，而语法就是写在word里的文字指令，写好后保
 
 [win7安装virtualbox遇到的问题](http://blog.csdn.net/cuidiwhere/article/details/41893733<) 
 
-[VirtualBox虚拟机 Ubuntu分辨率太小的解决方案](hhttp://blog.csdn.net/yasi_xi/article/details/42388119)
+[VirtualBox虚拟机 Ubuntu分辨率太小的解决方案](http://blog.csdn.net/yasi_xi/article/details/42388119)
 
 [知乎：怎样使用 GitHub？](http://www.zhihu.com/topic/19566035/top-answers)
 
