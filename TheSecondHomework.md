@@ -95,6 +95,8 @@ QAQ只非常喜欢电脑，所以会努力→有信心的。
 
 #### 装XSHELL ####
 为了方便的不带电脑上课，选择了装XSHELL远程连接ubuntu系统
+![](http://i.imgur.com/DwgysFe.jpg)
+
 
 在安装过程中遵循小伙伴的指导，在此致谢！
 [wdwycpt/computationalphysics_N2013301020128](https://github.com/wdwycpt/computationalphysics_N2013301020128)
@@ -110,6 +112,9 @@ QAQ只非常喜欢电脑，所以会努力→有信心的。
 安装Thesaurus Query
 [https://github.com/Ron89/thesaurus_query.vim](https://github.com/Ron89/thesaurus_query.vim)
 ![](http://i.imgur.com/EcI8GZS.png)
+
+这里不得不强调写代码时要仔细谨慎的重要性，就因为这里多了一个空格，我多花了2个小时来研究怎么装。
+![](http://i.imgur.com/aKtBTBe.png)
 
 点赞
 ![](http://i.imgur.com/3Z6Eyfc.jpg)
@@ -172,7 +177,7 @@ VIM就像word文档，而语法就是写在word里的文字指令，写好后保
 
 [win7安装virtualbox遇到的问题](http://blog.csdn.net/cuidiwhere/article/details/41893733<) 
 
-[VirtualBox虚拟机 Ubuntu分辨率太小的解决方案](hhttp://blog.csdn.net/yasi_xi/article/details/42388119)
+[VirtualBox虚拟机 Ubuntu分辨率太小的解决方案](http://blog.csdn.net/yasi_xi/article/details/42388119)
 
 [知乎：怎样使用 GitHub？](http://www.zhihu.com/topic/19566035/top-answers)
 
