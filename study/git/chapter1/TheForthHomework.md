@@ -13,6 +13,7 @@
 首先尝试去重现课本例题，衰变曲线。课本范例运用的原理通俗讲就是设定dt，然后前一步得到的点变成后一步的初始点这样，一步步推进，去找点画线。
 
 看了老师上传的uranium decay的范例后，把看得懂的代码提炼出来，就完成了重现。
+[例题裂变曲线](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/study/git/chapter1/uranium_decay.py)
 ![](http://i.imgur.com/Tpw1rcO.jpg)
 
 其中
@@ -68,6 +69,11 @@
 
 最终表达式变为
 ![](http://i.imgur.com/6sj9qBG.jpg)
+
+于是
+
+[1.3摩擦力程序](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/study/git/chapter1/frictional_force.py)
+
 
 可是谁也没想到，依葫芦画瓢只改动了几个式子，得到的图像却完全不一样
 
