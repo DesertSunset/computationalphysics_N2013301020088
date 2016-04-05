@@ -84,7 +84,7 @@ print 了一下v，发现数据非常混乱
 
 还要clone老师在课上展示了的同学的代码，去研究一下还能怎么玩。
 
-所以这个作业还没做完....
+【所以这个作业还没完结，还要继续做下去】....
 
 
 #### 装Visual####
@@ -125,6 +125,7 @@ NameError: free variable 'install_kernel_spec' referenced before assignment in e
 
 所以还是明天问一下小伙伴吧...
 
+【于是3D的也没装好，双重打击....】
 
 ##· 结论 ##
 革命尚未成功，同志仍需努力.......
@@ -138,7 +139,6 @@ NameError: free variable 'install_kernel_spec' referenced before assignment in e
 
 同样感谢网络上大大们详细的教程
 
-[使用国内镜像通过pip安装python的一些包
-](http://www.xuebuyuan.com/1157602.html)
+[使用国内镜像通过pip安装python的一些包](http://www.xuebuyuan.com/1157602.html)
 
 [Matplotlib 教程](http://ju.outofmemory.cn/entry/92100)
