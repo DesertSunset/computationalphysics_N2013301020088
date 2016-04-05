@@ -104,6 +104,7 @@ pip install vpython。失败了，说没有pip
 pip install vpython -i http://e.pypi.python.org/simple
 
 还是失败了
+
 ![](http://i.imgur.com/CDckXQP.jpg)
 触目惊心的红色和黄色让我想起了用goagent翻墙的时候各种IP不好用，也是各种红色黄色警报。
 
@@ -139,4 +140,5 @@ NameError: free variable 'install_kernel_spec' referenced before assignment in e
 
 [使用国内镜像通过pip安装python的一些包
 ](http://www.xuebuyuan.com/1157602.html)
+
 [Matplotlib 教程](http://ju.outofmemory.cn/entry/92100)
