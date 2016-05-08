@@ -1,0 +1,4 @@
+libGL error: pci id for fd 4: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+Script for ibus started at run_im.

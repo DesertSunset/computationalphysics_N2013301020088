@@ -1,0 +1,48 @@
+status: 200
+x-request-id: VwPiXwoZOCYAAAx8B@YAAABJ1
+via: 1.1 juju-prod45-u1-sca-machine-25 (squid/3.3.8)
+x-cache: HIT from juju-prod45-u1-sca-machine-25
+content-language: en
+age: 237
+expires: Tue, 05 Apr 2016 15:40:26 GMT
+vary: Authorization,Accept-Language,Cookie
+server: gunicorn/19.3.0
+last-modified: Tue, 05 Apr 2016 15:30:26 GMT
+etag: "3d50c155f4e5fa28ddb9377fdb4f8932"
+strict-transport-security: max-age=2592000
+cache-control: max-age=600
+date: Tue, 05 Apr 2016 16:01:54 GMT
+x-bzr-revision-number: 2856
+content-type: application/json; charset=utf-8
+x-cache-lookup: HIT from juju-prod45-u1-sca-machine-25:3128
+content-location: https://software-center.ubuntu.com/api/2.0/exhibits/zh_CN/trusty/
+
+[
+    {
+        "package_names": "leadwerks\r\nleadwerks-indie", 
+        "click_url": "", 
+        "weight": 1, 
+        "banner_url": "https://software-center.ubuntu.com/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png", 
+        "distroseries": [
+            {
+                "version": "12.04", 
+                "code_name": "precise"
+            }, 
+            {
+                "version": "13.10", 
+                "code_name": "saucy"
+            }, 
+            {
+                "version": "14.04", 
+                "code_name": "trusty"
+            }
+        ], 
+        "html": "<div style=\"background-color: #000000; width:1680px; height:200px;\">\r\n <div style=\"background: url('/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png') top left no-repeat; width:700px; height:200px;\"></div>\r\n</div>", 
+        "published": true, 
+        "date_created": "2014-05-09 17:54:22", 
+        "banner_urls": [
+            "https://software-center.ubuntu.com/site_media/exhibits/2014/05/leadwerks-ubuntu-banner.png"
+        ], 
+        "id": 101
+    }
+]

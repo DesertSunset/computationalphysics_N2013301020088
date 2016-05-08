@@ -1,0 +1,4 @@
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Activating service name='org.gnome.keyring.SystemPrompter'
+Successfully activated service 'org.gnome.keyring.SystemPrompter'

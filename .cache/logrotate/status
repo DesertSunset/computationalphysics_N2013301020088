@@ -1,0 +1,21 @@
+logrotate state -- version 2
+"/home/desert/.cache/upstart/indicator-session.log" 2016-3-4-0:11:54
+"/home/desert/.cache/upstart/im-config.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/unity-panel-service-lockscreen.log" 2016-4-5-20:16:3
+"/home/desert/.cache/upstart/indicator-power.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/update-notifier-cds.log" 2016-3-4-22:41:28
+"/home/desert/.cache/upstart/dbus.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/gnome-session-Unity.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/indicator-sound.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/window-stack-bridge.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/unity-settings-daemon.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/unity7.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/hud.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/indicator-printers.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/indicator-bluetooth.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_compiz.1000.crash.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/at-spi2-registryd.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/indicator-application.log" 2016-3-4-22:41:28
+"/home/desert/.cache/upstart/update-notifier-release.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/unity-panel-service.log" 2016-5-9-1:11:22
+"/home/desert/.cache/upstart/upstart-dbus-session-bridge.log" 2016-3-4-0:11:54

@@ -1,0 +1,6 @@
+Error loading .desktop file /usr/share/applications/gnome-activity-log-manager-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/app-install/desktop/activity-log-manager:gnome-activity-log-manager-panel.desktop: constructor returned NULL
+libGL error: pci id for fd 14: 80ee:beef, driver (null)
+libGL error: core dri or dri2 extension not found
+libGL error: failed to load driver: vboxvideo
+ERROR 2016-05-09 01:25:06 unity.settings UnitySettings.cpp:366 Invalid monitor index: -1. Returning index 0 monitor instead.
