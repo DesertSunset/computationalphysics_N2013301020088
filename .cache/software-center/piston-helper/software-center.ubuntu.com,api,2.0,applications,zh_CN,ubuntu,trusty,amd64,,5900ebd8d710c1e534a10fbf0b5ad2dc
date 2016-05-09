@@ -1,8 +1,0 @@
-status: 200
-content-length: 598
-content-location: http://software-center.ubuntu.com/api/2.0/applications/zh_CN/ubuntu/trusty/amd64/
-server: Apache
-connection: close
-cache-control: no-cache
-
-<script>top.self.location.href='http://202.114.64.105:8080/eportal/index.jsp?wlanuserip=ee961103313e441cdd1a0c45805df19a&wlanacname=05fba099aa6e0345&ssid=&nasip=07e38f2323f330cd5ffcc3a203a63100&snmpagentip=&mac=eb4ded9ffab1d247c6f20bf4009492bf&t=wireless-v2&url=5af4a6b28878b9810488392e784227769c40de62c904c86c299b0942940b9949e51004529d57a60d5ada30ed32c2ae056b882bef4e31b40607c2da35921151cd7aa081a745337fd0d8407d074fb75592f6bdef839750aefa&apmac=&nasid=05fba099aa6e0345&vid=b9cafbca13344b72&port=4326a7ab1ebddb5c&nasportid=ac41d60d7f1382088c220df2f2050e37c6f4579c32db09e2b1081364394b75fd'</script>
