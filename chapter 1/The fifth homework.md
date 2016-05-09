@@ -68,8 +68,7 @@ V0=7时
 
 
 **在a/b<V0的条件下，即V0>10**
-
-
+我们可以看到
 
 V0=20
 ![](http://i.imgur.com/xvKavQk.jpg)
