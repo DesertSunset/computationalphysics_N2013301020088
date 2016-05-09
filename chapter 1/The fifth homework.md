@@ -51,7 +51,7 @@
 
 **①取a=10,b=1，保持a/b与V0大小关系不变**
 
-在a/b>V0的条件下，即V0<10
+**在a/b>V0的条件下，即V0<10**
 
 V0=1时
 ![](http://i.imgur.com/GFGcplC.jpg)
@@ -63,11 +63,13 @@ V0=7时
 ![](http://i.imgur.com/U0DA5g3.jpg)
 
 
-在a/b=V0的条件下，即V0=10，可以看出的确是匀速直线运动
+**在a/b=V0的条件下，即V0=10，可以看出的确是匀速直线运动**
 ![](http://i.imgur.com/blUfHoM.jpg)
 
 
-在a/b<V0的条件下，即V0>10
+**在a/b<V0的条件下，即V0>10**
+
+
 
 V0=20
 ![](http://i.imgur.com/xvKavQk.jpg)
