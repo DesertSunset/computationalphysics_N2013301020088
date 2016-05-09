@@ -9,6 +9,8 @@
 首先自己绘制姓名缩写HY的图形，并制作为字典存储起来。随后通过循环实现逐行逐列的扫描。
 
 ##· 正文 ##
+程序[Word.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/Word.py)
+
 效果展示~
 
 输入任意顺序，任意数量的H和Y都可以打出来
