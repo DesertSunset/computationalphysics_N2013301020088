@@ -16,7 +16,7 @@
 - [2016/03/17布置第四次作业（2016/04/06）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%201/The%20forth%20homework.md)-完成第一章的练习题（自己任选一题），使用matplotlib完成图片的各种细节
 - [2016/03/24布置第五次作业（2016/05/09更新完结）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%201/The%20fifth%20homework.md)-继续用第一章的练习题熟悉python编程，并熟练撰写markdown文档
 - [2016/03/31布置第六次作业（016/05/12更新完结））](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%202/The%20sixth%20homework.md)-作业L1 2.9题,作业L2 2.10题强化版（引入风阻）————“辅助精确打击系统”,作业L3 发展“超级辅助精确打击系统”（考虑炮弹初始发射的时候发射角度误差1%，速度有5%的误差，风阻误差10%，可以考虑引入Coriolis force等，以炮弹落点与打击目标距离差平方均值最小为优胜）
-- [2016/04/7布置第七次作业（★2016/05/24更新完结★）](hhttps://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%202/The%20seventh%20homework.md)-作业L1 2.19题
+- [2016/04/7布置第七次作业（★2016/05/24更新完结★）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%202/The%20seventh%20homework.md)-作业L1 2.19题
 
 
 
