@@ -41,7 +41,7 @@
 > * ⑤同时，对落点的取值进行了修正，取了在地面上的最后一个点以及在地面下的第一个点对于对应距地距离比值的加权算术平均。
 
 ##· 正文 ##
-运行程序
+运行程序[baseball](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%202/baseball%20.py)
 
 由于题目没有具体要求定量分析比如求得最大值，故仅仅粗略改变参量，进行讨论
 
