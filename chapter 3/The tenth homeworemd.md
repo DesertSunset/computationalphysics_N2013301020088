@@ -141,6 +141,7 @@ r=163.8，系统开始出现一些非周期的因素，也就是开始变得混�
 from __future__ import division 模块
 
 给自己的代码添上后就好了。
+
 ![](http://i.imgur.com/zlFLvDg.jpg)
 
 百度得知，from __future__ import division的意思是
