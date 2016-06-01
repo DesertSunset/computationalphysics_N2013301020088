@@ -47,7 +47,7 @@ F_d为强迫力
 
 ####**1.运用带线性、强迫力以及摩擦的钟摆公式（3.14），研究强迫角频率和摩擦系数对共振振幅的影响。**
 
-运行程序exercise 3.7 for comparison
+运行程序[exercise 3.7 for comparison](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20eighth%20homework/exercise%203.7%20for%20comparison.py)
 
 **①强迫角频率对共振振幅的影响**
 
@@ -90,6 +90,8 @@ frequency=10  angle=0.026 T=0.64 f3=1.56≈2f2
 **③综上可以看出，单摆最终做正弦运动，其振幅由单摆固有频率，强迫角频率和摩擦系数共同决定，其频率等于外力的频率。**
 
 ####**2.运用非线性钟摆公式（3.17），研究振幅和周期之间的数值关系。要求给出直观的讨论来支持结论。**
+
+运行程序[exercise 3.8 for comparison](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20eighth%20homework/exercise%203.8%20for%20comparison.py)
 
 ![](http://i.imgur.com/uQjRlQS.jpg)
 
