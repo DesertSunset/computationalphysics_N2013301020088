@@ -19,8 +19,7 @@
 - 7.[2016/04/7布置第七次作业](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%202/The%20seventh%20homework.md)-作业L1 2.19题 建议：可以使用argparse和ConfigParser两个包设置程序初始参数 作业L2 使用vpython可视化炮弹发射或者棒球运动 建议：可参考一些例子
 - 8.[2016/04/14布置第八次作业（★2016/05/31新完结★）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/The%20eighth%20homework.md)-作业3.7 3.8
 - 9.[2016/04/21布置第九次作业（★2016/05/31新完结★）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/The%20ninth%20homework.md)-作业L1 3.12 作业L2 3.16 3.21
-- 10.[2016/04/28布置第十次作业（★2016/05/31新完结★）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/The%20tenth%20homeworemd.md)作业L1 3.26  作业L2 3.29 3.31  作业L3 将以上题目使用vpython进行一个3D展示
-- 
+- 10.[2016/04/28布置第十次作业（★2016/05/31新完结★）](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/The%20tenth%20homeworemd.md)-作业L1 3.26 作业L2 3.29 3.31 作业L3 将以上题目使用vpython进行一个3D展示
 
 
 
