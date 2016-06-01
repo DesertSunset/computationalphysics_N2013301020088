@@ -24,7 +24,7 @@ b=8/3
 
 ####**1.Figure 3.15——Lorentz模型在不同r下的行为**
 
-运行程序
+运行程序[Figure 3.15](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20tenth%20homework/Figure%203.15.py)
 
 改变r的大小，观察z随时间的变化情况。在这个模型中，r代表了流体顶部与底部的温度差，类似于单摆问题中外界驱动力的地位。
 
@@ -48,7 +48,7 @@ r=25时，图像变为混沌状态。
 
 ####**2.Figure 3.16——相空间中的混沌lorenz模型**
 
-运行程序
+运行程序[Figure 3.16](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20tenth%20homework/Figure%203.16.py)
 
 首先看x-z平面的
 
@@ -76,7 +76,8 @@ A sample solution in the Lorenz attractor when ρ = 28, σ = 10, and β = 8/3
 
 ####**3.Figure 3.17——相空间中的混沌lorenz模型**
 
-运行程序
+运行程序[Figure 3.17](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20tenth%20homework/Figure%203.17.py)
+
 
 这里x=0,y=0的条件由x,y绝对值≤0.01代替
 
@@ -86,6 +87,8 @@ A sample solution in the Lorenz attractor when ρ = 28, σ = 10, and β = 8/3
 
 
 ####**4.Figure 3.18——混沌转变**
+
+运行程序[Figure 3.18](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20tenth%20homework/Figure%203.17.py)
 
 ![](http://i.imgur.com/zlFLvDg.jpg)
 
