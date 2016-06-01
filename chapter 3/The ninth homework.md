@@ -35,6 +35,10 @@ F_d为强迫力
 
 运行程序
 
+[study on the figure 3.6 of angle](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.6%20of%20angle.py)
+
+[study on the figure 3.6 of omega](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.6%20of%20omega.py)
+
 
 ![](http://i.imgur.com/WhCwlOM.jpg)
 
@@ -57,7 +61,7 @@ F_d为强迫力
 
 混沌摆的最大特征是当初值仅仅改变了一点点时，结果就会有极大的变化。为了示意这种情况，选择两个摆，它们的初始角度仅仅相差0.001rad。之后观察它们分别在F=1.2（混沌）和F=0.5（非混沌）的情况下角度之差的变化规律。
 
-运行程序
+运行程序[study on the figure 3.7](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.7.py)
 
 ![](http://i.imgur.com/Mmeb7wr.jpg)
 
@@ -67,7 +71,8 @@ F_d为强迫力
 
 ####**3.混沌摆的角度与角速度的关系**
 
-运行程序
+运行程序[study on the figure 3.8](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/study%20on%20the%20figure%203.8.py)
+
 
 ![](http://i.imgur.com/XzlumrV.jpg)
 
@@ -79,6 +84,9 @@ F_d为强迫力
 
 
 ####**4.exercise 3.12 研究庞加莱截面在不同外力相位取值时的情况，与Figure 3.9进行比较。**
+
+运行程序[exercise 3.12](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%203/for%20the%20ninth%20homework/exercise%203.12.py)
+
 
 ![](http://i.imgur.com/NuzcmNW.jpg)
 
