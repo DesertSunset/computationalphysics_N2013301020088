@@ -32,7 +32,7 @@ Jacobi方法的改进版是Gauss-Seidel方法。在计算中，我们总是算�
 
 建立平板处为±1，其他地方为0的100*100矩阵后，使用迭代语句令非边界上的点的电势相等于其周围最近的四个点的电势的平均值。在计算某一点的电势时，使用之前的点已经更新（update）后的数据。最终扩散得到全局电势。
 
-运行程序
+运行程序[potential.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%205/The%20thirteen%20homework/potential.py)
 
 得到2D等高线电势图，对应的3D图像和电场线矢量图。
 

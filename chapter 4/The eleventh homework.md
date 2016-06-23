@@ -36,7 +36,7 @@
 
 ####4.7 研究在质量相同与不同情况下的双星系统轨道**
 
-运行程序
+运行程序[binary star system.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20eleventh%20homework/binary%20star%20system.py)
 
 **①质量相同**
 
@@ -79,7 +79,7 @@ k=100
 
 取总动量为0，即可得到大行星类似固定不动质量下降，小行星围绕大行星运动的简化模型。
 
-运行程序
+运行程序[the solar system.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20eleventh%20homework/the%20solar%20system.py)
 
 令大行星初始速度为0，小行星自取。
 
@@ -100,7 +100,7 @@ V0=3pi
 
 ####4.9 研究在beta值不为2时，不同初速度导致的轨道近圆程度对轨道行为稳定性的影响**
 
-运行程序
+运行程序[change of beta.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20eleventh%20homework/change%20of%20beta.py)
 
 **①beta值对图像的影响**
 
@@ -130,7 +130,7 @@ V0=2pi
 
 **②初速度对图像的影响**
 
-运行程序
+运行程序[change of the initial velocity.py](https://github.com/DesertSunset/computationalphysics_N2013301020088/blob/master/chapter%204/for%20the%20eleventh%20homework/change%20of%20the%20initial%20velocity.py)
 
 当beta=2.05时改变初始速度
 
